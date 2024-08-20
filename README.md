@@ -1,14 +1,10 @@
-Para criar um README eficiente para uma biblioteca Node.js, é importante fornecer informações claras e úteis para os usuários que desejam entender, instalar e utilizar sua biblioteca. Abaixo está um exemplo de estrutura de README que você pode seguir e adaptar conforme necessário:
-
----
-
-# Nome da Biblioteca
+# Algoritims
 
 [![NPM version](https://img.shields.io/npm/v/algoritims.svg?style=flat-square)](https://www.npmjs.com/package/algoritims)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/usuario/algoritims/teste.yml?branch=main&style=flat-square)](https://github.com/usuario/algoritims/actions)
 [![License](https://img.shields.io/npm/l/algoritims.svg?style=flat-square)](https://github.com/usuario/algoritims/blob/main/LICENSE)
 
-Descrição curta da biblioteca: o que ela faz, principais funcionalidades, e por que ela é útil.
+> Biblioteca de algoritmos para JavaScript.
 
 ## Índice
 
