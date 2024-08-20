@@ -1,13 +1,15 @@
 {
   "name": "algoritims",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.cts",
+  "repository": "https://github.com/lucaspereirasouzat/algoritims.git",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "npx pkgroll --minify",
-    "test": "jest"
+    "test": "jest",
+    "prepublish": "npm run build"
   },
   "author": "",
   "license": "ISC",
